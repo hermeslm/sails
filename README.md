@@ -1,3 +1,15 @@
+<h2>
+Sails.js fork with lasted Waterline ORM updated.
+</h2>
+
+This fork only keep a Waterline ORM version updated in Sails.js
+
+## Installation of this fork &nbsp;
+
+Put or replace in your project package.json sails dependency by:
+"sails": "hermeslm/sails.git", 
+
+
 <h1>
 <a href="http://sailsjs.org"><img alt="Sails.js logo" src="http://balderdashy.github.io/sails/images/logo.png" title="Sails.js"/></a>
 </h1>
